@@ -124,4 +124,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fafd0cf6f43d5764e81d8541e2eb72ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bonus: {fileID: 357722922819527986, guid: 6d5fafa90e2084f4286481fd544d5882, type: 3}
+  firstBonus: {fileID: 357722922819527986, guid: 6d5fafa90e2084f4286481fd544d5882, type: 3}
+  secondBonus: {fileID: 357722922819527986, guid: 9316583cb689e5c4cbe2b41df5afc740, type: 3}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 9127453664105064000}
   - component: {fileID: 2055705263077409740}
   - component: {fileID: -6330966867698964665}
-  - component: {fileID: 494849344809315285}
+  - component: {fileID: 1153096829208888562}
   m_Layer: 0
   m_Name: BonusUpCountBalls
   m_TagString: UpLengthPlatform
@@ -28,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 357722922819527986}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.4600005, y: 3.6600003, z: 0}
+  m_LocalPosition: {x: -1.4600005, y: 3.6600003, z: 0}
   m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -124,7 +124,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &494849344809315285
+--- !u!114 &1153096829208888562
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -137,4 +137,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _ballsContainer: {fileID: 1627528998813797758, guid: c3811d5e47c003440ad59dd9a9a0dcca, type: 3}
-  _ballsCount: {fileID: 0}
